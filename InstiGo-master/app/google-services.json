@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832860252855",
+    "project_id": "insti-e63e4",
+    "storage_bucket": "insti-e63e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832860252855:android:dc73753f60e59597af7b32",
+        "android_client_info": {
+          "package_name": "com.iitdh.sonusourav.instigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2L6Vw_u_RlhDLlo9scLb9n_8lwdZWBXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
